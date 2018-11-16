@@ -41,8 +41,6 @@ class ReaderMD implements RendererInterface
           } else {
               $chaine = $chaine . "<br />" . $line; // <... Do your work with the line ...>
           }
-
-          // echo($line);
         }
         fclose($fh);
         return sprintf(
