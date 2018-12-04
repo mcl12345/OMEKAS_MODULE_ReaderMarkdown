@@ -17,4 +17,4 @@ Ce module lit dans OmekaS un fichier Markdown lorsqu'il apparaît comme un lien 
 <br /><br />
 
 
-![]("https://i.ibb.co/VjyrV6z/omekas-module-markdown.png")
+![](https://i.ibb.co/VjyrV6z/omekas-module-markdown.png)
