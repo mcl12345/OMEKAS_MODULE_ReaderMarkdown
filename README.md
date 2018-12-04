@@ -15,4 +15,4 @@ Ce module lit dans OmekaS un fichier Markdown lorsqu'il apparaît comme un lien 
 <br /><br />
 4ème étape : Aller dans "Items", ouvrir le fichier README.md dans la colonne de droite et normalement le fichier devrait dévoiler son contenu.
 
-(Aperçu de la lecture du fichier Markdown)[https://i.ibb.co/VjyrV6z/omekas-module-markdown.png]
+[Aperçu de la lecture du fichier Markdown](https://i.ibb.co/VjyrV6z/omekas-module-markdown.png)
