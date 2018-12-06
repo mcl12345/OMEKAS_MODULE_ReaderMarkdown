@@ -7,9 +7,9 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 ### Installation
 
 <br />
-1ère étape : Il faut auparavant installer le module Sideload https://omeka.org/s/modules/FileSideload/ , copier / coller le fichier dézipper de Sideload dans le fichier "modules" dans le dossier d'omeka-s. Puis aller dans l'interface d'OmekaS et aller dans "Modules" et cliquer sur "installer".<br /><br />
-2ème étape : Aller dans OmekaS, aller dans les items, cliquer sur "Add new item", Cliquer sur l'onglet "Media", cliquer sur 
-"SideLoad" pour uploader un fichier Markdown, cliquer sur la liste "File", choisir le fichier "README.md", cliquer sur "Add". Si il n'y a pas de fichier Markdown ( README ) , copier / coller un fichier Markdown de n'importe quel projet Github dans le fichier racine d'OmekaS.
+1ère étape : Il faut auparavant installer le module Sideload https://omeka.org/s/modules/FileSideload/ , copier / coller le fichier dézipper de Sideload dans le fichier "modules" dans le dossier d'omeka-s. Puis aller dans l'interface Web d'OmekaS et aller dans "Modules" et cliquer sur "installer".<br /><br />
+2ème étape : Aller dans l'interface Web d'OmekaS, aller dans les items, cliquer sur "Add new item", Cliquer sur l'onglet "Media", cliquer sur 
+"SideLoad" en bas à droite pour uploader un fichier Markdown, cliquer sur la liste "File", choisir le fichier "README.md", cliquer sur "Add". Si il n'y a pas de fichier Markdown ( README ) , copier / coller un fichier Markdown de n'importe quel projet Github dans le fichier racine d'OmekaS et ressayer de l'ouvrir avec SideLoad.
 <br /><br />
 3ème étape : Si il y a en vert le label "Item successfully created." l'upload du README.md a bien été effectué. 
 <br /><br />
