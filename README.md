@@ -13,7 +13,7 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 <br /><br />
 3ème étape : Si il y a en vert le label "Item successfully created." l'upload du README.md a bien été effectué. 
 <br /><br />
-4ème étape : Aller dans "Items", ouvrir le fichier README.md dans la colonne de droite et normalement le fichier devrait dévoiler son contenu.
+4ème étape : Aller dans "Items", choisir le fichier Markdown importé et l'ouvrir dans la colonne à droite et normalement le fichier devrait dévoiler son contenu.
 <br /><br />
 
 
