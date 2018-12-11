@@ -20,7 +20,7 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2018] [Morvan CALMEL]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
