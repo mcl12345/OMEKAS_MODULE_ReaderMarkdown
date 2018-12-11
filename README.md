@@ -1,6 +1,6 @@
 **Ce module est un lecteur de fichier Markdown sur Omeka-s** <br />
 
-Le Markdown est un langage de balisage léger créé en 2004 par John Gruber avec Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières. 
+Le Markdown est un langage de balisage léger créé en 2004 par John Gruber avec Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières. Il a pour extension .md
 
 Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un lien dans les items / médias ou sur un site dans OmekaS
 
