@@ -11,7 +11,7 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 <b>2ème étape :</b> Aller dans l'interface Web d'OmekaS, aller dans les items, cliquer sur "Add new item", Cliquer sur l'onglet "Media", cliquer sur 
 "SideLoad" en bas à droite pour uploader un fichier Markdown, cliquer sur la liste "File", choisir le fichier "README.md", cliquer sur "Add". Si il n'y a pas de fichier Markdown ( README ) , copier / coller un fichier Markdown de n'importe quel projet Github dans le fichier racine d'OmekaS et ressayer de l'ouvrir avec SideLoad.
 <br /><br />
-<b>3ème étape :</b> Si il y a en vert le label "Item successfully created." l'upload du README.md a bien été effectué. <br />
+<b>3ème étape :</b> Si il y a en vert le label "Item successfully created." l'upload du README.md a bien été effectué.<br /><br />
 <b>4ème étape :</b> Aller dans "Items", choisir le fichier Markdown importé et l'ouvrir dans la colonne à droite et normalement le fichier devrait dévoiler son contenu.
 <br /><br />
 
