@@ -16,7 +16,7 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 <br /><br />
 
 
-![](https://i.ibb.co/VjyrV6z/omekas-module-markdown.png
+![](https://i.ibb.co/VjyrV6z/omekas-module-markdown.png)
 ![](http://image.noelshack.com/fichiers/2018/50/2/1544517761-omekas-module-markdown-site.png)
 
 # Licence
