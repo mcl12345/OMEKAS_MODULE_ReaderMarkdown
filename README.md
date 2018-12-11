@@ -18,6 +18,8 @@ Ce module écrit dans OmekaS le fichier Markdown lorsqu'il apparaît comme un li
 
 ![](https://i.ibb.co/VjyrV6z/omekas-module-markdown.png)
 
+# Licence
+
 MIT License
 
 Copyright (c) [2018] [Morvan CALMEL]
